@@ -8,7 +8,7 @@ from sklearn import pipeline
 from sklearn import linear_model
 from sklearn import metrics
 
-dh=pd.read_csv('C:\\Users\\user\\Desktop\\Language Detection.csv')
+dh=pd.read_csv('Language Detection.csv')
 print(dh.head())
 
 
